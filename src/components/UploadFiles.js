@@ -29,6 +29,7 @@ const UploadFiles = ({ setfile1, setfile2, handleSubmit, loading }) => {
 
   return (
     <>
+    <div className='file-upload-container'>
       <form
         action="#"
         encType="multipart/form-data"
@@ -95,6 +96,7 @@ const UploadFiles = ({ setfile1, setfile2, handleSubmit, loading }) => {
           </div>
         </div>
       </form>
+      </div>
     </>
   );
 };
