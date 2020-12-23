@@ -1,0 +1,832 @@
+[
+  {
+      "Unmatched": [
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 05:33:22",
+              "TransactionAmount": "-32400",
+              "TransactionNarrative": "ENGEN TSOLAMOSESI         GABORONE      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0384012056029314",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzUyMDI4NjRfMTM4NTM2NjE4OC44Njcy",
+              "id": "12fd0529-00e9-4c20-809a-e8f93ba35222",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 05:33:22",
+                      "TransactionAmount": "-10000",
+                      "TransactionNarrative": "ENGEN TSOLAMOSESI         GABORONE      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0384012056029314",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzUyMDI4NjRfMTM4NTM2NjE4OC44Njcy",
+                      "id": "10f531d1-36a6-415e-a2b7-94ffbe033697"
+                  },
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 05:33:22",
+                      "TransactionAmount": "-10000",
+                      "TransactionNarrative": "ENGEN TSOLAMOSESI         GABORONE      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0384012056029314",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzUyMDI4NjRfMTM4NTM2NjE4OC44Njcy",
+                      "id": "17ad4a0e-52be-488b-ab4b-3aa87c2e3834"
+                  },
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 05:34:25",
+                      "TransactionAmount": "-10000",
+                      "TransactionNarrative": "ENGEN TSOLAMOSESI         GABORONE      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0584012056667274",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzUyMDI4NjRfMTM4NTM2NjE4OC44Njcy",
+                      "id": "b821cee3-7c64-4872-b17a-ed9b80f53c9a"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 08:22:58",
+              "TransactionAmount": "-6220",
+              "TransactionNarrative": "Choppies Superst102631    Lobatse       BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0284349965585533",
+              "TransactionType": "0",
+              "WalletReference\r": "P_NzI5NzYzMjlfMTM3ODMwMDI2Ny40MzUy",
+              "id": "9bf2eb75-e0a0-4ff9-a27f-72b819e89e94",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 08:16:58",
+                      "TransactionAmount": "-10000",
+                      "TransactionNarrative": "*MAHALAPYE                MAHALAPYE     BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0304012298191470",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzI5NzYzMjlfMTM3ODMwMDI2Ny40MzUy",
+                      "id": "c1b8e074-2c76-455a-981e-d0c3d3513985"
+                  },
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 08:22:58",
+                      "TransactionAmount": "-6220",
+                      "TransactionNarrative": "Choppies Superst102631    Lobatse       BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0284012303585533",
+                      "TransactionType": "0",
+                      "WalletReference\r": "P_NzI5NzYzMjlfMTM3ODMwMDI2Ny40MzUy",
+                      "id": "86cd3730-4d31-4dec-a03a-13bbddf427af"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 14:09:36",
+              "TransactionAmount": "-5395",
+              "TransactionNarrative": "Choppies Hyper R100256    Lobatse       BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0164012367663009",
+              "TransactionType": "0",
+              "WalletReference\r": "P_Nzc0NzIzNjlfMTM4MzkwMjg0Ny41NTIy",
+              "id": "1c1887c5-ac19-4244-a88d-cdef825e4979",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 10:09:46",
+                      "TransactionAmount": "-5395",
+                      "TransactionNarrative": "Choppies Hyper R100256    Lobatse       BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0164012367663009",
+                      "TransactionType": "0",
+                      "WalletReference\r": "P_Nzc0NzIzNjlfMTM4MzkwMjg0Ny41NTIy",
+                      "id": "20bfbdd4-33e4-4c1a-8674-0a58357d2b42"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-13 11:11:09",
+              "TransactionAmount": "-30000",
+              "TransactionNarrative": "THAMAGA ATM               BWS           BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0384012258699343",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzQ0OTE5NjVfMTM4NzU0OTg0My44MzM=",
+              "id": "ca8e151e-459e-44fd-b0ca-4600ffc7aa6f",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 11:11:09",
+                      "TransactionAmount": "-30000",
+                      "TransactionNarrative": "THAMAGA ATM               BWS           BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0384012258699343",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzQ0OTE5NjVfMTM4NzU0OTg0My44MzM=",
+                      "id": "75f21157-7b77-4abf-9324-0c9c87959eac"
+                  },
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 18:20:44",
+                      "TransactionAmount": "-10000",
+                      "TransactionNarrative": "THAMAGA ATM               BWS           BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0384012516443358",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzQ0OTE5NjVfMTM4NzU0OTg0My44MzM=",
+                      "id": "d7906aa7-e516-458a-bc12-7e83b2690712"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 14:21:22",
+              "TransactionAmount": "-5466",
+              "TransactionNarrative": "*RED SQUARE SZ",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "8948594584958495",
+              "TransactionType": "0",
+              "WalletReference\r": "P_NzIxMzExMDZfMTM4NjMyNzk1MS4wNDE2",
+              "id": "b9054bc5-08db-4c06-99da-f068add8939b",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 11:15:11",
+                      "TransactionAmount": "-2205",
+                      "TransactionNarrative": "548817 PAY-LESS (PTY) LTD BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0164012261115601",
+                      "TransactionType": "0",
+                      "WalletReference\r": "P_NzIxMzExMDZfMTM4NjMyNzk1MS4wNDE2",
+                      "id": "bf17fa78-a5fc-406a-b544-50c5c487edd1"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 14:16:24",
+              "TransactionAmount": "-10000",
+              "TransactionNarrative": "TRUWORTHS                 BOTSWANA      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "4049540590428544",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzI3NDUxNDRfMTM4NDM1MDQ5NC4yMTUx",
+              "id": "36f5e37c-2378-41e3-8404-61e1baa391cf",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 14:16:24",
+                      "TransactionAmount": "-10000",
+                      "TransactionNarrative": "TRUWORTHS                 BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0384012369849844",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzI3NDUxNDRfMTM4NDM1MDQ5NC4yMTUx",
+                      "id": "ac4e253d-d9eb-434a-8992-8ab772278453"
+                  },
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 21:59:29",
+                      "TransactionAmount": "-10000",
+                      "TransactionNarrative": "KFC ATM                   JOHANNESBURG  BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0584012647694946",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzI3NDUxNDRfMTM4NDM1MDQ5NC4yMTUx",
+                      "id": "f67d1c73-e02e-465f-a66f-849e2e7a13dc"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 14:47:52",
+              "TransactionAmount": "-39405",
+              "TransactionNarrative": "578939 WIMPY PHAKALANE    BOTSWANA      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0284012388727189",
+              "TransactionType": "0",
+              "WalletReference\r": "P_NzI2NDM5OTlfMTM4MzY1MzIwNS4yMzQ=",
+              "id": "285ffc18-52d4-4704-82b0-b6c184de1b80",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 14:47:52",
+                      "TransactionAmount": "-19770",
+                      "TransactionNarrative": "578939 WIMPY PHAKALANE    BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0284012388727189",
+                      "TransactionType": "0",
+                      "WalletReference\r": "P_NzI2NDM5OTlfMTM4MzY1MzIwNS4yMzQ=",
+                      "id": "3e8d0c05-4196-493c-b214-6d4b2761b4ea"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 15:03:05",
+              "TransactionAmount": "-6984",
+              "TransactionNarrative": "128552 P G TIMBERS MAUN   BOTSWANA      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0084012397854064",
+              "TransactionType": "0",
+              "WalletReference\r": "",
+              "id": "49a8839a-fb46-49ec-a4d3-87bb5eca2e02",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 15:03:05",
+                      "TransactionAmount": "-6984",
+                      "TransactionNarrative": "128552 P G TIMBERS MAUN   BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0084012397854064",
+                      "TransactionType": "0",
+                      "WalletReference\r": "P_Nzc1MDA3MTFfMTM4MTQ4MjU0MC4zMTc2",
+                      "id": "0822ddeb-6685-4a56-901b-1162ff1311d7"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 21:33:51",
+              "TransactionAmount": "-12220",
+              "TransactionNarrative": "162502 CHOPPIES           BOTSWANA      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0164012404238247",
+              "TransactionType": "0",
+              "WalletReference\r": "P_Nzc1MDc0MTNfMTM4NTgwOTEwNS4wMjk0",
+              "id": "ac208ad9-7c74-4996-be35-af296b3e3227",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 15:13:43",
+                      "TransactionAmount": "-12220",
+                      "TransactionNarrative": "162502 CHOPPIES           BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0164012404238247",
+                      "TransactionType": "0",
+                      "WalletReference\r": "P_Nzc1MDc0MTNfMTM4NTgwOTEwNS4wMjk0",
+                      "id": "1b69fbc1-1339-4667-be06-481734e9f075"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 15:26:54",
+              "TransactionAmount": "-30000",
+              "TransactionNarrative": "EASY PLAN RAILWAY         GABORONE      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0584012412153040",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzQzNjAxNTlfMTM4NjIzNjEzMS4wNzQ5",
+              "id": "5f465553-661a-43fa-b9a3-eddcf8edf30a",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 15:26:23",
+                      "TransactionAmount": "-30000",
+                      "TransactionNarrative": "EASY PLAN RAILWAY         GABORONE      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0584012412153040",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzQzNjAxNTlfMTM4NjIzNjEzMS4wNzQ5",
+                      "id": "16a0c2ed-d2f0-4365-8db1-eaf96b84f072"
+                  },
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 16:12:27",
+                      "TransactionAmount": "-14998",
+                      "TransactionNarrative": "582524 JET RAILWAYS ARIL  BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0004012439474137",
+                      "TransactionType": "0",
+                      "WalletReference\r": "P_NzQzNjAxNTlfMTM4NjIzNjEzMS4wNzQ5",
+                      "id": "7bb42d81-f70b-4b8f-9596-69c4175e79b3"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 15:55:13",
+              "TransactionAmount": "-50000",
+              "TransactionNarrative": "MAHALAPYE BRANCH          BOTSWANA      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0384012429135767",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzQ0NDExNzFfMTM4NzI3NDgxMC42OTc5",
+              "id": "e71edebd-f603-403b-be3d-813ee7ce2dfa",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 15:55:13",
+                      "TransactionAmount": "-50000",
+                      "TransactionNarrative": "MAHALAPYE BRANCH          BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0478928932843767",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzQ0NDExNzFfMTM4NzI3NDgxMC42OTc5",
+                      "id": "4f2fa666-7fa3-4f73-975e-9619c8171397"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 16:09:09",
+              "TransactionAmount": "-20000",
+              "TransactionNarrative": "*MAUN ENGEN               MAUN          BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0384012581494519",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzY1MDgxNDdfMTM4NDc3NTIxNi4wNjk1",
+              "id": "fc643d59-7427-4ca5-acb8-da6eb9b9a79d",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 16:09:09",
+                      "TransactionAmount": "-19403",
+                      "TransactionNarrative": "*MEGAWATT PARK            PALAPYE       BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0384012581494519",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzY1MDgxNDdfMTM4NDc3NTIxNi4wNjk1",
+                      "id": "0ec492b1-e2f6-4bc7-a87e-c637a67531ab"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 11:55:43",
+              "TransactionAmount": "-37582",
+              "TransactionNarrative": "*JDOREY STNGER            GABORE        BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0475845786555522",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzI5MTc3u89FITTldfi7349yOS4wNjI4",
+              "id": "5f8952fd-158f-4889-8d78-ea7c4f0828f7",
+              "closeMatches": []
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 20:55:42",
+              "TransactionAmount": "-100000",
+              "TransactionNarrative": "DINOS SHOPPERS            BOTSWANA      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0584012609420666",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzI5NjY5NDlfMTM4MTc1MDM1MS4zODg2",
+              "id": "2582555d-4555-46d0-8c26-8a664a922dfd",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 20:54:56",
+                      "TransactionAmount": "-30000",
+                      "TransactionNarrative": "DINOS SHOPPERS            BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0304012608978759",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzI5NjY5NDlfMTM4MTc1MDM1MS4zODg2",
+                      "id": "86f0151e-8d67-47c3-8260-a6cb9449b425"
+                  }
+              ]
+          }
+      ],
+      "matchCount": 292,
+      "unMatchCount": 14,
+      "fileName": "ClientMarkoffFile20140113 (1) (1).csv",
+      "totalRecords": 306
+  },
+  {
+      "Unmatched": [
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 05:33:22",
+              "TransactionAmount": "-10000",
+              "TransactionNarrative": "ENGEN TSOLAMOSESI         GABORONE      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0384012056029314",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzUyMDI4NjRfMTM4NTM2NjE4OC44Njcy",
+              "id": "10f531d1-36a6-415e-a2b7-94ffbe033697",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 05:33:22",
+                      "TransactionAmount": "-32400",
+                      "TransactionNarrative": "ENGEN TSOLAMOSESI         GABORONE      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0384012056029314",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzUyMDI4NjRfMTM4NTM2NjE4OC44Njcy",
+                      "id": "12fd0529-00e9-4c20-809a-e8f93ba35222"
+                  },
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 05:34:25",
+                      "TransactionAmount": "-10000",
+                      "TransactionNarrative": "ENGEN TSOLAMOSESI         GABORONE      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0584012056667274",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzUyMDI4NjRfMTM4NTM2NjE4OC44Njcy",
+                      "id": "3c13b4b3-29b5-4cdd-bbf3-12360d6248b1"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 05:33:22",
+              "TransactionAmount": "-10000",
+              "TransactionNarrative": "ENGEN TSOLAMOSESI         GABORONE      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0384012056029314",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzUyMDI4NjRfMTM4NTM2NjE4OC44Njcy",
+              "id": "17ad4a0e-52be-488b-ab4b-3aa87c2e3834",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 05:33:22",
+                      "TransactionAmount": "-32400",
+                      "TransactionNarrative": "ENGEN TSOLAMOSESI         GABORONE      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0384012056029314",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzUyMDI4NjRfMTM4NTM2NjE4OC44Njcy",
+                      "id": "12fd0529-00e9-4c20-809a-e8f93ba35222"
+                  },
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 05:34:25",
+                      "TransactionAmount": "-10000",
+                      "TransactionNarrative": "ENGEN TSOLAMOSESI         GABORONE      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0584012056667274",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzUyMDI4NjRfMTM4NTM2NjE4OC44Njcy",
+                      "id": "3c13b4b3-29b5-4cdd-bbf3-12360d6248b1"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 08:22:58",
+              "TransactionAmount": "-6220",
+              "TransactionNarrative": "Choppies Superst102631    Lobatse       BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0284012303585533",
+              "TransactionType": "0",
+              "WalletReference\r": "P_NzI5NzYzMjlfMTM3ODMwMDI2Ny40MzUy",
+              "id": "86cd3730-4d31-4dec-a03a-13bbddf427af",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 08:16:58",
+                      "TransactionAmount": "-10000",
+                      "TransactionNarrative": "*MAHALAPYE                MAHALAPYE     BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0304012298191470",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzI5NzYzMjlfMTM3ODMwMDI2Ny40MzUy",
+                      "id": "8774517d-76ba-42bd-b89e-39c68a42aa2d"
+                  },
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 08:22:58",
+                      "TransactionAmount": "-6220",
+                      "TransactionNarrative": "Choppies Superst102631    Lobatse       BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0284349965585533",
+                      "TransactionType": "0",
+                      "WalletReference\r": "P_NzI5NzYzMjlfMTM3ODMwMDI2Ny40MzUy",
+                      "id": "9bf2eb75-e0a0-4ff9-a27f-72b819e89e94"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 10:09:46",
+              "TransactionAmount": "-5395",
+              "TransactionNarrative": "Choppies Hyper R100256    Lobatse       BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0164012367663009",
+              "TransactionType": "0",
+              "WalletReference\r": "P_Nzc0NzIzNjlfMTM4MzkwMjg0Ny41NTIy",
+              "id": "20bfbdd4-33e4-4c1a-8674-0a58357d2b42",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 14:09:36",
+                      "TransactionAmount": "-5395",
+                      "TransactionNarrative": "Choppies Hyper R100256    Lobatse       BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0164012367663009",
+                      "TransactionType": "0",
+                      "WalletReference\r": "P_Nzc0NzIzNjlfMTM4MzkwMjg0Ny41NTIy",
+                      "id": "1c1887c5-ac19-4244-a88d-cdef825e4979"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 11:11:09",
+              "TransactionAmount": "-30000",
+              "TransactionNarrative": "THAMAGA ATM               BWS           BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0384012258699343",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzQ0OTE5NjVfMTM4NzU0OTg0My44MzM=",
+              "id": "75f21157-7b77-4abf-9324-0c9c87959eac",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-13 11:11:09",
+                      "TransactionAmount": "-30000",
+                      "TransactionNarrative": "THAMAGA ATM               BWS           BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0384012258699343",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzQ0OTE5NjVfMTM4NzU0OTg0My44MzM=",
+                      "id": "ca8e151e-459e-44fd-b0ca-4600ffc7aa6f"
+                  },
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 18:20:44",
+                      "TransactionAmount": "-10000",
+                      "TransactionNarrative": "THAMAGA ATM               BWS           BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0384012516443358",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzQ0OTE5NjVfMTM4NzU0OTg0My44MzM=",
+                      "id": "8b1733aa-522a-4e5c-8639-88dd20bd7dce"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 11:15:11",
+              "TransactionAmount": "-2205",
+              "TransactionNarrative": "548817 PAY-LESS (PTY) LTD BOTSWANA      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0164012261115601",
+              "TransactionType": "0",
+              "WalletReference\r": "P_NzIxMzExMDZfMTM4NjMyNzk1MS4wNDE2",
+              "id": "bf17fa78-a5fc-406a-b544-50c5c487edd1",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 14:21:22",
+                      "TransactionAmount": "-5466",
+                      "TransactionNarrative": "*RED SQUARE SZ",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "8948594584958495",
+                      "TransactionType": "0",
+                      "WalletReference\r": "P_NzIxMzExMDZfMTM4NjMyNzk1MS4wNDE2",
+                      "id": "b9054bc5-08db-4c06-99da-f068add8939b"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 14:16:24",
+              "TransactionAmount": "-10000",
+              "TransactionNarrative": "TRUWORTHS                 BOTSWANA      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0384012369849844",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzI3NDUxNDRfMTM4NDM1MDQ5NC4yMTUx",
+              "id": "ac4e253d-d9eb-434a-8992-8ab772278453",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 14:16:24",
+                      "TransactionAmount": "-10000",
+                      "TransactionNarrative": "TRUWORTHS                 BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "4049540590428544",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzI3NDUxNDRfMTM4NDM1MDQ5NC4yMTUx",
+                      "id": "36f5e37c-2378-41e3-8404-61e1baa391cf"
+                  },
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 21:59:29",
+                      "TransactionAmount": "-10000",
+                      "TransactionNarrative": "KFC ATM                   JOHANNESBURG  BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0584012647694946",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzI3NDUxNDRfMTM4NDM1MDQ5NC4yMTUx",
+                      "id": "b133f07a-c0d7-4fd5-8476-ba0f83e28efe"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 14:47:52",
+              "TransactionAmount": "-19770",
+              "TransactionNarrative": "578939 WIMPY PHAKALANE    BOTSWANA      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0284012388727189",
+              "TransactionType": "0",
+              "WalletReference\r": "P_NzI2NDM5OTlfMTM4MzY1MzIwNS4yMzQ=",
+              "id": "3e8d0c05-4196-493c-b214-6d4b2761b4ea",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 14:47:52",
+                      "TransactionAmount": "-39405",
+                      "TransactionNarrative": "578939 WIMPY PHAKALANE    BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0284012388727189",
+                      "TransactionType": "0",
+                      "WalletReference\r": "P_NzI2NDM5OTlfMTM4MzY1MzIwNS4yMzQ=",
+                      "id": "285ffc18-52d4-4704-82b0-b6c184de1b80"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 15:03:05",
+              "TransactionAmount": "-6984",
+              "TransactionNarrative": "128552 P G TIMBERS MAUN   BOTSWANA      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0084012397854064",
+              "TransactionType": "0",
+              "WalletReference\r": "P_Nzc1MDA3MTFfMTM4MTQ4MjU0MC4zMTc2",
+              "id": "0822ddeb-6685-4a56-901b-1162ff1311d7",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 11:24:19",
+                      "TransactionAmount": "-5000",
+                      "TransactionNarrative": "MAUN BRANCH               MAUN BRANCH   BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0384012266601067",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_Nzc1MDA3MTFfMTM4MTQ4MjU0MC4zMTc2",
+                      "id": "f4ea5877-1ff6-4f96-b84f-8ddce4e22954"
+                  },
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 15:03:05",
+                      "TransactionAmount": "-6984",
+                      "TransactionNarrative": "128552 P G TIMBERS MAUN   BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0084012397854064",
+                      "TransactionType": "0",
+                      "WalletReference\r": "",
+                      "id": "49a8839a-fb46-49ec-a4d3-87bb5eca2e02"
+                  },
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 15:29:23",
+                      "TransactionAmount": "-8290",
+                      "TransactionNarrative": "805522 SHOPRITE MAUN      BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0004012413649294",
+                      "TransactionType": "0",
+                      "WalletReference\r": "P_Nzc1MDA3MTFfMTM4MTQ4MjU0MC4zMTc2",
+                      "id": "0e31f736-1db4-4a49-b677-71865a265a7c"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 15:13:43",
+              "TransactionAmount": "-12220",
+              "TransactionNarrative": "162502 CHOPPIES           BOTSWANA      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0164012404238247",
+              "TransactionType": "0",
+              "WalletReference\r": "P_Nzc1MDc0MTNfMTM4NTgwOTEwNS4wMjk0",
+              "id": "1b69fbc1-1339-4667-be06-481734e9f075",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 21:33:51",
+                      "TransactionAmount": "-12220",
+                      "TransactionNarrative": "162502 CHOPPIES           BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0164012404238247",
+                      "TransactionType": "0",
+                      "WalletReference\r": "P_Nzc1MDc0MTNfMTM4NTgwOTEwNS4wMjk0",
+                      "id": "ac208ad9-7c74-4996-be35-af296b3e3227"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 15:26:23",
+              "TransactionAmount": "-30000",
+              "TransactionNarrative": "EASY PLAN RAILWAY         GABORONE      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0584012412153040",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzQzNjAxNTlfMTM4NjIzNjEzMS4wNzQ5",
+              "id": "16a0c2ed-d2f0-4365-8db1-eaf96b84f072",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 15:26:54",
+                      "TransactionAmount": "-30000",
+                      "TransactionNarrative": "EASY PLAN RAILWAY         GABORONE      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0584012412153040",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzQzNjAxNTlfMTM4NjIzNjEzMS4wNzQ5",
+                      "id": "5f465553-661a-43fa-b9a3-eddcf8edf30a"
+                  },
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 16:12:27",
+                      "TransactionAmount": "-14998",
+                      "TransactionNarrative": "582524 JET RAILWAYS ARIL  BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0004012439474137",
+                      "TransactionType": "0",
+                      "WalletReference\r": "P_NzQzNjAxNTlfMTM4NjIzNjEzMS4wNzQ5",
+                      "id": "f1b91573-d1aa-4241-8cf1-5fbebf67e5c6"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 15:55:13",
+              "TransactionAmount": "-50000",
+              "TransactionNarrative": "MAHALAPYE BRANCH          BOTSWANA      BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0478928932843767",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzQ0NDExNzFfMTM4NzI3NDgxMC42OTc5",
+              "id": "4f2fa666-7fa3-4f73-975e-9619c8171397",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 15:55:13",
+                      "TransactionAmount": "-50000",
+                      "TransactionNarrative": "MAHALAPYE BRANCH          BOTSWANA      BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0384012429135767",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzQ0NDExNzFfMTM4NzI3NDgxMC42OTc5",
+                      "id": "e71edebd-f603-403b-be3d-813ee7ce2dfa"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 16:09:09",
+              "TransactionAmount": "-19403",
+              "TransactionNarrative": "*MEGAWATT PARK            PALAPYE       BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0384012581494519",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzY1MDgxNDdfMTM4NDc3NTIxNi4wNjk1",
+              "id": "0ec492b1-e2f6-4bc7-a87e-c637a67531ab",
+              "closeMatches": [
+                  {
+                      "ProfileName": "Card Campaign",
+                      "TransactionDate": "2014-01-12 16:09:09",
+                      "TransactionAmount": "-20000",
+                      "TransactionNarrative": "*MAUN ENGEN               MAUN          BW",
+                      "TransactionDescription": "DEDUCT",
+                      "TransactionID": "0384012581494519",
+                      "TransactionType": "1",
+                      "WalletReference\r": "P_NzY1MDgxNDdfMTM4NDc3NTIxNi4wNjk1",
+                      "id": "fc643d59-7427-4ca5-acb8-da6eb9b9a79d"
+                  }
+              ]
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 16:18:25",
+              "TransactionAmount": "-35000",
+              "TransactionNarrative": "*PALAPYE ENGEN            PALAPYE       BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0384012587059924",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzI5MTc3NzdfMTM4MDUyOTMyOS4wNjI4",
+              "id": "58b76eb9-c2ed-410d-a4d1-6184c41a7df5",
+              "closeMatches": []
+          },
+          {
+              "ProfileName": "Card Campaign",
+              "TransactionDate": "2014-01-12 16:25:37",
+              "TransactionAmount": "-20954",
+              "TransactionNarrative": "ENGEN WIRED              GABARONE       BW",
+              "TransactionDescription": "DEDUCT",
+              "TransactionID": "0528738473949230",
+              "TransactionType": "1",
+              "WalletReference\r": "P_NzUI4398F03ghjffMOIF8340Mi45NTc4",
+              "id": "ff1616d0-29f8-4435-a7b6-b26be6cda7ab",
+              "closeMatches": []
+          }
+      ],
+      "matchCount": 290,
+      "unMatchCount": 15,
+      "fileName": "TutukaMarkoffFile20140113 (1).csv",
+      "totalRecords": 305
+  }
+]
