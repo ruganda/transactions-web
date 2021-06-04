@@ -25,13 +25,14 @@ function App() {
       formData.append('file1', file1);
       formData.append('file2', file2);
       try {
-        res = await axios.post('https://transaction-compare.df.r.appspot.com/file-upload', formData);
+        const {REACT_APP_SERVER_URL} = process.env
+        res = await axios.post(`${REACT_APP_SERVER_URL}/file-upload`, formData);
         setData(res.data);
       } catch (error) {
         M.toast({ html: `${error}` });
       }
     } else {
-      M.toast({ html: 'Please select both files before submiting' });
+      M.toast({ html: 'Please select both files before submitting' });
     }
 
     setloading(false)
